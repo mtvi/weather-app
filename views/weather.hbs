@@ -1,0 +1,43 @@
+{{> header}}
+    <section id="main" class="mt-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-6 col-md-4 col-lg-3">
+                 <div class="list-group list-buttons-city">
+                    {{createList cities.arr weather.name}}
+                </div>
+            </div>
+            <div class="col-6 col-md-8 col-lg-9">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Weather in {{weather.name}}</h3>
+                        <table class="table table-stripedtable-striped" id="tableWeather">
+                            <tr>
+                                <th>Weather</th>
+                                <td>{{weather.main}}</td>
+                            </tr>
+                            <tr>
+                                <th>Pressure</th>
+                                <td>{{weather.pressure}}</td>
+                            </tr>
+                            <tr>
+                                <th>Humidity</th>
+                                <td>{{weather.humidity}}</td>
+                            </tr>
+                            <tr>
+                                <th>Temperature</th>
+                                <td>{{weather.temp}}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+    
+{{> footer}}
+
+
+
