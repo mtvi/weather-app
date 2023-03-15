@@ -87,7 +87,8 @@ You can also document commands to lint the code or run tests. These steps help t
 Show your appreciation to those who have contributed to the project.
 
 ## License
-For open source projects, say how it is licensed.
+This project is licensed under the MIT(LICENSE) license. See the [LICENSE](LICENSE) file for details.
+
 
 # weather-app
 weather app node js lab project
