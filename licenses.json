@@ -1,0 +1,799 @@
+{
+  "accepts@1.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/accepts",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\accepts",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\accepts\\LICENSE"
+  },
+  "ajv@6.12.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ajv-validator/ajv",
+    "publisher": "Evgeny Poberezkin",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ajv",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ajv\\LICENSE"
+  },
+  "array-flatten@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/array-flatten",
+    "publisher": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\array-flatten",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\array-flatten\\LICENSE"
+  },
+  "asn1@0.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-asn1",
+    "publisher": "Joyent",
+    "url": "joyent.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\asn1",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\asn1\\LICENSE"
+  },
+  "assert-plus@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mcavage/node-assert-plus",
+    "publisher": "Mark Cavage",
+    "email": "mcavage@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\assert-plus",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\assert-plus\\README.md"
+  },
+  "asynckit@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexindigo/asynckit",
+    "publisher": "Alex Indigo",
+    "email": "iam@alexindigo.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\asynckit",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\asynckit\\LICENSE"
+  },
+  "aws-sign2@0.7.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/aws-sign",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\aws-sign2",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\aws-sign2\\LICENSE"
+  },
+  "aws4@1.11.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mhart/aws4",
+    "publisher": "Michael Hart",
+    "email": "michael.hart.au@gmail.com",
+    "url": "https://github.com/mhart",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\aws4",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\aws4\\LICENSE"
+  },
+  "bcrypt-pbkdf@1.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/joyent/node-bcrypt-pbkdf",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\bcrypt-pbkdf",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\bcrypt-pbkdf\\LICENSE"
+  },
+  "body-parser@1.19.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/body-parser",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\body-parser",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\body-parser\\LICENSE"
+  },
+  "bytes@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/bytes.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\bytes",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\bytes\\LICENSE"
+  },
+  "caseless@0.12.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/caseless",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\caseless",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\caseless\\LICENSE"
+  },
+  "combined-stream@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-combined-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\combined-stream",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\combined-stream\\License"
+  },
+  "content-disposition@0.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-disposition",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\content-disposition",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\content-disposition\\LICENSE"
+  },
+  "content-type@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-type",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\content-type",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\content-type\\LICENSE"
+  },
+  "cookie-signature@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-cookie-signature",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@learnboost.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\cookie-signature",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\cookie-signature\\Readme.md"
+  },
+  "cookie@0.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/cookie",
+    "publisher": "Roman Shtylman",
+    "email": "shtylman@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\cookie",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\cookie\\LICENSE"
+  },
+  "core-util-is@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/core-util-is",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\core-util-is",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\core-util-is\\LICENSE"
+  },
+  "dashdash@1.14.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/trentm/node-dashdash",
+    "publisher": "Trent Mick",
+    "email": "trentm@gmail.com",
+    "url": "http://trentm.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\dashdash",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\dashdash\\LICENSE.txt"
+  },
+  "debug@2.6.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\debug",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\debug\\LICENSE"
+  },
+  "delayed-stream@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-delayed-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\delayed-stream",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\delayed-stream\\License"
+  },
+  "depd@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dougwilson/nodejs-depd",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\depd",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\depd\\LICENSE"
+  },
+  "destroy@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/destroy",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\destroy",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\destroy\\LICENSE"
+  },
+  "ecc-jsbn@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/quartzjer/ecc-jsbn",
+    "publisher": "Jeremie Miller",
+    "email": "jeremie@jabber.org",
+    "url": "http://jeremie.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ecc-jsbn",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ecc-jsbn\\LICENSE"
+  },
+  "ee-first@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonathanong/ee-first",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ee-first",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ee-first\\LICENSE"
+  },
+  "encodeurl@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/encodeurl",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\encodeurl",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\encodeurl\\LICENSE"
+  },
+  "escape-html@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/escape-html",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\escape-html",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\escape-html\\LICENSE"
+  },
+  "etag@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/etag",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\etag",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\etag\\LICENSE"
+  },
+  "express@4.17.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/express",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\express",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\express\\LICENSE"
+  },
+  "extend@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/justmoon/node-extend",
+    "publisher": "Stefan Thomas",
+    "email": "justmoon@members.fsf.org",
+    "url": "http://www.justmoon.net",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\extend",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\extend\\LICENSE"
+  },
+  "extsprintf@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davepacheco/node-extsprintf",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\extsprintf",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\extsprintf\\LICENSE"
+  },
+  "fast-deep-equal@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-deep-equal",
+    "publisher": "Evgeny Poberezkin",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\fast-deep-equal",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\fast-deep-equal\\LICENSE"
+  },
+  "fast-json-stable-stringify@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-json-stable-stringify",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\fast-json-stable-stringify",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\fast-json-stable-stringify\\LICENSE"
+  },
+  "finalhandler@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/finalhandler",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\finalhandler",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\finalhandler\\LICENSE"
+  },
+  "foreachasync@3.0.0": {
+    "licenses": "Apache*",
+    "repository": "https://github.com/FuturesJS/forEachAsync",
+    "publisher": "AJ ONeal",
+    "email": "coolaj86@gmail.com",
+    "url": "http://coolaj86.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\foreachasync",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\foreachasync\\LICENSE"
+  },
+  "forever-agent@0.6.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/forever-agent",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\forever-agent",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\forever-agent\\LICENSE"
+  },
+  "form-data@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/form-data/form-data",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\form-data",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\form-data\\License"
+  },
+  "forwarded@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/forwarded",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\forwarded",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\forwarded\\LICENSE"
+  },
+  "fresh@0.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/fresh",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\fresh",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\fresh\\LICENSE"
+  },
+  "getpass@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/arekinath/node-getpass",
+    "publisher": "Alex Wilson",
+    "email": "alex.wilson@joyent.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\getpass",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\getpass\\LICENSE"
+  },
+  "handlebars@4.7.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wycats/handlebars.js",
+    "publisher": "Yehuda Katz",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\handlebars",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\handlebars\\LICENSE"
+  },
+  "har-schema@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/ahmadnassri/har-schema",
+    "publisher": "Ahmad Nassri",
+    "email": "ahmad@ahmadnassri.com",
+    "url": "https://www.ahmadnassri.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\har-schema",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\har-schema\\LICENSE"
+  },
+  "har-validator@5.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ahmadnassri/node-har-validator",
+    "publisher": "Ahmad Nassri",
+    "email": "ahmad@ahmadnassri.com",
+    "url": "https://www.ahmadnassri.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\har-validator",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\har-validator\\LICENSE"
+  },
+  "hbs@4.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/hbs",
+    "publisher": "Don Park",
+    "email": "donpark@docuverse.com",
+    "url": "http://blog.docuverse.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\hbs",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\hbs\\LICENSE"
+  },
+  "http-errors@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/http-errors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\http-errors",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\http-errors\\LICENSE"
+  },
+  "http-signature@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-http-signature",
+    "publisher": "Joyent, Inc",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\http-signature",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\http-signature\\LICENSE"
+  },
+  "iconv-lite@0.4.24": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ashtuchkin/iconv-lite",
+    "publisher": "Alexander Shtuchkin",
+    "email": "ashtuchkin@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\iconv-lite",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\iconv-lite\\LICENSE"
+  },
+  "inherits@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\inherits",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\inherits\\LICENSE"
+  },
+  "ipaddr.js@1.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/whitequark/ipaddr.js",
+    "publisher": "whitequark",
+    "email": "whitequark@whitequark.org",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ipaddr.js",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ipaddr.js\\LICENSE"
+  },
+  "is-typedarray@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hughsk/is-typedarray",
+    "publisher": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\is-typedarray",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\is-typedarray\\LICENSE.md"
+  },
+  "isstream@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/isstream",
+    "publisher": "Rod Vagg",
+    "email": "rod@vagg.org",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\isstream",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\isstream\\LICENSE.md"
+  },
+  "jsbn@0.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andyperlitch/jsbn",
+    "publisher": "Tom Wu",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\jsbn",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\jsbn\\LICENSE"
+  },
+  "json-schema-traverse@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/json-schema-traverse",
+    "publisher": "Evgeny Poberezkin",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\json-schema-traverse",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\json-schema-traverse\\LICENSE"
+  },
+  "json-schema@0.4.0": {
+    "licenses": "(AFL-2.1 OR BSD-3-Clause)",
+    "repository": "https://github.com/kriszyp/json-schema",
+    "publisher": "Kris Zyp",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\json-schema",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\json-schema\\LICENSE"
+  },
+  "json-stringify-safe@5.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/json-stringify-safe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\json-stringify-safe",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\json-stringify-safe\\LICENSE"
+  },
+  "jsprim@1.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-jsprim",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\jsprim",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\jsprim\\LICENSE"
+  },
+  "media-typer@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/media-typer",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\media-typer",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\media-typer\\LICENSE"
+  },
+  "merge-descriptors@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/merge-descriptors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\merge-descriptors",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\merge-descriptors\\LICENSE"
+  },
+  "methods@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/methods",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\methods",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\methods\\LICENSE"
+  },
+  "mime-db@1.52.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\mime-db",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\mime-db\\LICENSE"
+  },
+  "mime-types@2.1.35": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\mime-types",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\mime-types\\LICENSE"
+  },
+  "mime@1.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/node-mime",
+    "publisher": "Robert Kieffer",
+    "email": "robert@broofa.com",
+    "url": "http://github.com/broofa",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\mime",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\mime\\LICENSE"
+  },
+  "minimist@1.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/minimist",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\minimist",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\minimist\\LICENSE"
+  },
+  "ms@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ms",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\ms\\license.md"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\send\\node_modules\\ms",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\send\\node_modules\\ms\\license.md"
+  },
+  "negotiator@0.6.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/negotiator",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\negotiator",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\negotiator\\LICENSE"
+  },
+  "neo-async@2.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/suguru03/neo-async",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\neo-async",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\neo-async\\LICENSE"
+  },
+  "oauth-sign@0.9.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/oauth-sign",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\oauth-sign",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\oauth-sign\\LICENSE"
+  },
+  "on-finished@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-finished",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\on-finished",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\on-finished\\LICENSE"
+  },
+  "parseurl@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/parseurl",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\parseurl",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\parseurl\\LICENSE"
+  },
+  "path-to-regexp@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/path-to-regexp",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\path-to-regexp",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\path-to-regexp\\LICENSE"
+  },
+  "performance-now@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/braveg1rl/performance-now",
+    "publisher": "Braveg1rl",
+    "email": "braveg1rl@outlook.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\performance-now",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\performance-now\\license.txt"
+  },
+  "proxy-addr@2.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/proxy-addr",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\proxy-addr",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\proxy-addr\\LICENSE"
+  },
+  "psl@1.8.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lupomontero/psl",
+    "publisher": "Lupo Montero",
+    "email": "lupomontero@gmail.com",
+    "url": "https://lupomontero.com/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\psl",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\psl\\LICENSE"
+  },
+  "punycode@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bestiejs/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\punycode",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\punycode\\LICENSE-MIT.txt"
+  },
+  "qs@6.5.3": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\request\\node_modules\\qs",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\request\\node_modules\\qs\\LICENSE.md"
+  },
+  "qs@6.9.7": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\qs",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\qs\\LICENSE.md"
+  },
+  "range-parser@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/range-parser",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\range-parser",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\range-parser\\LICENSE"
+  },
+  "raw-body@2.4.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/raw-body",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\raw-body",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\raw-body\\LICENSE"
+  },
+  "request@2.88.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/request/request",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\request",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\request\\LICENSE"
+  },
+  "safe-buffer@5.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/safe-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\safe-buffer",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\safe-buffer\\LICENSE"
+  },
+  "safer-buffer@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ChALkeR/safer-buffer",
+    "publisher": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\safer-buffer",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\safer-buffer\\LICENSE"
+  },
+  "send@0.17.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/send",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\send",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\send\\LICENSE"
+  },
+  "serve-static@1.14.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/serve-static",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\serve-static",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\serve-static\\LICENSE"
+  },
+  "setprototypeof@1.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/wesleytodd/setprototypeof",
+    "publisher": "Wes Todd",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\setprototypeof",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\setprototypeof\\LICENSE"
+  },
+  "source-map@0.6.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/mozilla/source-map",
+    "publisher": "Nick Fitzgerald",
+    "email": "nfitzgerald@mozilla.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\source-map",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\source-map\\LICENSE"
+  },
+  "sshpk@1.17.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-sshpk",
+    "publisher": "Joyent, Inc",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\sshpk",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\sshpk\\LICENSE"
+  },
+  "statuses@1.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/statuses",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\statuses",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\statuses\\LICENSE"
+  },
+  "toidentifier@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/toidentifier",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\toidentifier",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\toidentifier\\LICENSE"
+  },
+  "tough-cookie@2.5.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/salesforce/tough-cookie",
+    "publisher": "Jeremy Stashewsky",
+    "email": "jstash@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\tough-cookie",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\tough-cookie\\LICENSE"
+  },
+  "tunnel-agent@0.6.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/tunnel-agent",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\tunnel-agent",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\tunnel-agent\\LICENSE"
+  },
+  "tweetnacl@0.14.5": {
+    "licenses": "Unlicense",
+    "repository": "https://github.com/dchest/tweetnacl-js",
+    "publisher": "TweetNaCl-js contributors",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\tweetnacl",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\tweetnacl\\LICENSE"
+  },
+  "type-is@1.6.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\type-is",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\type-is\\LICENSE"
+  },
+  "uglify-js@3.15.4": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/mishoo/UglifyJS",
+    "publisher": "Mihai Bazon",
+    "email": "mihai.bazon@gmail.com",
+    "url": "http://lisperator.net/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\uglify-js",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\uglify-js\\LICENSE"
+  },
+  "unpipe@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/unpipe",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\unpipe",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\unpipe\\LICENSE"
+  },
+  "uri-js@4.4.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/garycourt/uri-js",
+    "publisher": "Gary Court",
+    "email": "gary.court@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\uri-js",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\uri-js\\LICENSE"
+  },
+  "utils-merge@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/utils-merge",
+    "publisher": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\utils-merge",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\utils-merge\\LICENSE"
+  },
+  "uuid@3.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/uuidjs/uuid",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\uuid",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\uuid\\LICENSE.md"
+  },
+  "vary@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/vary",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\vary",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\vary\\LICENSE"
+  },
+  "verror@1.10.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davepacheco/node-verror",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\verror",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\verror\\LICENSE"
+  },
+  "walk@2.3.15": {
+    "licenses": "(MIT OR Apache-2.0)",
+    "repository": "https://git.coolaj86.com/coolaj86/fs-walk.js",
+    "publisher": "AJ ONeal",
+    "email": "coolaj86@gmail.com",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\walk",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\walk\\LICENSE"
+  },
+  "weatherapp@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mtvi/weather-app",
+    "publisher": "ipz202_shhmyu",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\LICENSE"
+  },
+  "wordwrap@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-wordwrap",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\wordwrap",
+    "licenseFile": "D:\\proggers\\2.2\\nodejs\\WeatherApp\\node_modules\\wordwrap\\LICENSE"
+  }
+}
