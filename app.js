@@ -85,16 +85,10 @@ data.forEach(city =>
 
 
 app.get('/login',(req,res) => {
-    res.send("log in mf");
+    res.send("log in");
 });
 
 app.listen(3000, () => {
     console.log("Express app listening on port 3000");
     
 });
-
-
-function getLocalWeather(city)
-{
-  
-}

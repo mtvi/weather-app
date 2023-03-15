@@ -11,6 +11,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ipz202_shhmyu",
-  "license": "ISC",
-  "description": ""
+  "license": "MIT",
+  "description": "Weather App for nodeJs Lab",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtvi/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mtvi/weather-app/issues"
+  },
+  "homepage": "https://github.com/mtvi/weather-app#readme"
 }
